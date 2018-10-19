@@ -1,4 +1,4 @@
-# Piano Project
+# JS Piano
 
 ### Clone and Try (Recommended)
 * Developed using 
